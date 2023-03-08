@@ -4,7 +4,7 @@
 */
 
 body {
-  background-color: #0F0;
+  background-color: #0f0;
 }
 
 h1 {
@@ -15,7 +15,7 @@ h1 {
 }
 
 p {
-  background-color: #ffff00;
+  background-color: #ff0;
 }
 
 ul {
@@ -31,7 +31,7 @@ th {
   background: #00f;
   border: 1px solid white;
   text-align: left;
-  color: #fff
+  color: #fff;
 }
 
 td {
